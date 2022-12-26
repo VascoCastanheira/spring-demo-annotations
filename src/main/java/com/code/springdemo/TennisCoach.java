@@ -14,4 +14,9 @@ public class TennisCoach implements Coach {
         return null;
     }
 
+    @Override
+    public String getTeamInfo() {
+        return null;
+    }
+
 }

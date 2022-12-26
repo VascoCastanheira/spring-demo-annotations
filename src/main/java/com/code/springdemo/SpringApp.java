@@ -14,6 +14,7 @@ public class SpringApp {
         System.out.println(myTennisCoach.getDailyWorkout());
         System.out.println(mySurfCoach.getDailyWorkout());
         System.out.println(mySurfCoach.getDailyFortune());
+        System.out.println();
 
         //close context
         context.close();
